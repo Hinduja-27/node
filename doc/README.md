@@ -1,4 +1,5 @@
 # Node.js documentation style guide
+EDITED by hinduja
 
 This guide provides clear and concise instructions to help you create well-organized and readable documentation for
 the Node.js community. It covers organization, spelling, formatting, and more to ensure consistency and
